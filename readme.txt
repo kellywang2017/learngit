@@ -7,5 +7,5 @@ git 5
 git 6 merge
 git 7 merge conflict
 stash
-esteeeee
+ee
  
