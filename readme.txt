@@ -5,3 +5,4 @@ git 4
 stupid
 git 5
 git 6 merge
+gpg	
